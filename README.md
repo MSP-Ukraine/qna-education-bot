@@ -1,6 +1,6 @@
 # Зміст
 - [Microsoft Teams. Головне про платформу](#Microsoft-Teams-Головне-про-платформу)
-  - [Чи безкоштовний Microsoft Team&](#чи-безкоштовний-microsoft-team)
+  - [Чи безкоштовний Microsoft Team&](#чи-безкоштовний-microsoft-teams)
 - [Microsoft Teams. Організація дистанційного навчання](#Microsoft-Teams-Організація-дистанційного-навчання)
 - [Microsoft Teams. Команди](#Microsoft-Teams-Команди)
 - [Microsoft Teams. Канали](#Microsoft-Teams-Канали)
