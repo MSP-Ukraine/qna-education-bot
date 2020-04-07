@@ -3,7 +3,7 @@
 - [Microsoft Teams. Організація дистанційного навчання](#Microsoft-Teams-Організація-дистанційного-навчання)
 - [Microsoft Teams. Команди](#Microsoft-Teams-Команди)
 - [Microsoft Teams. Канали](#Microsoft-Teams-Канали)
-- [Microsoft Teams. Проведення віртуальної наради/уроку/події](#Microsoft-Teams-Проведення-віртуальної-наради-уроку-події)
+- [Microsoft Teams. Проведення віртуальної наради/уроку/події](#Microsoft-Teams-Проведення-віртуальної-нарадиурокуподії)
 - [Microsoft Teams. Оцінювання учнів](#Microsoft-Teams-Оцінювання-учнів)
 
 
